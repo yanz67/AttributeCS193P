@@ -18,6 +18,7 @@
 		2C1CC1DA17B54405004E1D10 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C1CC1D917B54405004E1D10 /* Default-568h@2x.png */; };
 		2C1CC1DD17B54405004E1D10 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C1CC1DB17B54405004E1D10 /* MainStoryboard.storyboard */; };
 		2C1CC1E017B54405004E1D10 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C1CC1DF17B54405004E1D10 /* ViewController.m */; };
+		2C1CC1E717B54419004E1D10 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2C1CC1E617B54419004E1D10 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		2C1CC1DC17B54405004E1D10 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		2C1CC1DE17B54405004E1D10 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		2C1CC1DF17B54405004E1D10 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2C1CC1E617B54419004E1D10 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		2C1CC1CA17B54405004E1D10 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2C1CC1E617B54419004E1D10 /* .gitignore */,
 				2C1CC1CB17B54405004E1D10 /* AttributeCS193P-Info.plist */,
 				2C1CC1CC17B54405004E1D10 /* InfoPlist.strings */,
 				2C1CC1CF17B54405004E1D10 /* main.m */,
@@ -163,6 +166,7 @@
 				2C1CC1D817B54405004E1D10 /* Default@2x.png in Resources */,
 				2C1CC1DA17B54405004E1D10 /* Default-568h@2x.png in Resources */,
 				2C1CC1DD17B54405004E1D10 /* MainStoryboard.storyboard in Resources */,
+				2C1CC1E717B54419004E1D10 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
